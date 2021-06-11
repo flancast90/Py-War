@@ -1,14 +1,17 @@
 # Py-War
 > An implementation of the classic card-game War in native Python!
 <br>
+
 # Images
 <img src="https://i.imgur.com/Me8Pw8a.png"/>
 <br>
-# Set-UP
+
+# Set-Up
 1. Install Python3: https://www.python.org/downloads/
 2. ```cd``` to the file location (Ex. ```cd "Desktop/Py-War-main/src"```)
 3. Run ```war.py```: ```python war.py```
 <br>
+
 # License 
 ```
 Copyright 2021 Finn Lancaster
