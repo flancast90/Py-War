@@ -6,8 +6,8 @@ from random import randint
 
 # Cards in deck: 52
 # 4 Classes (suits): Hearts, Spades, Diamonds, Clubs
-# 2-10 for each class
-# Jack, Queen, King, and Ace for each class
+# 2-10 for each class (suit)
+# Jack, Queen, King, and Ace for each class (suit)
 
 print("\n Welcome to PyWar, a Python-take on the Classic Card-Game: War")
 print("Copyright(c) Finn Lancaster 2021\n\n")
